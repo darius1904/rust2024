@@ -1,0 +1,5 @@
+[global.limits]
+form = "2GiB"
+data-form = "2GiB"
+file = "2GiB"
+json = "2GiB"
